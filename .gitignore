@@ -1,0 +1,14 @@
+# Ignore everything
+*
+#But not these files...
+!.gitignore
+!*.py
+!*.pl
+!*.R
+!*.README
+!*.sh
+!*.ipynp
+
+# ...even if they are in subdirectories
+!*/
+tool/
