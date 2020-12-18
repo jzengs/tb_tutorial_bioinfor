@@ -1,9 +1,9 @@
 # tb_tutorial_bioinfor
 
-##Data
+## Data
 
 test data
 
-##Analysis
+## Analysis
 
 hisat2 alignment
